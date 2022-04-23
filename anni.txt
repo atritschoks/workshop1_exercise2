@@ -1,1 +1,2 @@
 The weather is very nice today.
+Bernhard added something here!
